@@ -1,6 +1,6 @@
 #Portafolio 
 
-*** Please see this portafolio as a reference of some of the skills I have learned in Web Dev ***
+*** Please see this portafolio as a reference to some of the skills I have learned in Web Dev ***
 
 ** in this portafolio I have sampled the use of JS/DOM as per assigment instructions.**
 
