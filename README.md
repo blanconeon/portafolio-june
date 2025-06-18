@@ -1,9 +1,9 @@
 #Portafolio 
 
-*** Please use this portafolio as a refernce of the skils I have gained in the web dev. ***
+*** Please see this portafolio as a reference of some of the skills I have learned in Web Dev ***
 
 ** in this portafolio I have sampled the use of JS/DOM as per assigment instructions.**
 
-### This website has my real information and contact details. ###
+### This website has real information and contact details. ###
 
 ![Alt codeSymbol](Images/codeimg.jpg)
